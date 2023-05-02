@@ -1,5 +1,5 @@
 # KwinDesktopGrid
-KWin Script to switch horizontally and vertically on a 2x2 desktop grid
+KWin Script to switch desktops horizontally and vertically on a 2x2 grid
 
 ## Installation
 
@@ -7,7 +7,6 @@ To install, run:
 ```
 kpackagetool5 --type=KWin/Script -i .
 ```
----
 
 ---
 To uninstall, run:
