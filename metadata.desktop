@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=KWinDesktopGrid
+Comment=Vertical and horizontal desktop switching on a 2x2 grid
+Icon=preferences-system-windows
+
+X-KDE-PluginInfo-Author=jhleao
+X-KDE-PluginInfo-Email=jhleao99@gmail.com
+X-KDE-PluginInfo-Name=kwin-desktop-switch
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=MIT
+
+Type=Service
+X-KDE-ServiceTypes=KWin/Script
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
